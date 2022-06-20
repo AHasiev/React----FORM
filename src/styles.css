@@ -1,0 +1,12 @@
+.app {
+display: flex;
+justify-content: center;
+}
+
+
+.is-error {
+  color: red;
+}
+.no-error {
+  color: rgb(11, 187, 11);
+}
